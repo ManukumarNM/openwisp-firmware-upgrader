@@ -33,7 +33,7 @@ setup(
     description='Firmware upgrader module of OpenWISP',
     long_description=open('README.rst').read(),
     url='http://openwisp.org',
-    download_url='https://github.com/ShreeshaRelysys/openwisp-firmware-upgrader/releases',
+    download_url='https://github.com/ManukumarNM/openwisp-firmware-upgrader/releases',
     platforms=['Platform Independent'],
     keywords=['django', 'netjson', 'networking', 'openwisp', 'firmware'],
     packages=find_packages(exclude=['tests*', 'docs*']),
